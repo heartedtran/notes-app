@@ -1,0 +1,4 @@
+create an env file with 
+DB_CONNECT = // Mongo Connection URL
+PORT = // Port Number
+TOKEN_SECRET = // Token Secret
